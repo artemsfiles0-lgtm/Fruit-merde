@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Merge",
+  "description": "Minimalist merge and idle game about merging fruits to advance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
